@@ -1,6 +1,6 @@
 # WiCS (Women in Computer Science) Mentorship Portal
 
-Authors: Carina Tze, Sarah Wong, Sandra Radic
+Authors: Sandra Radic, Carina Tze, Sarah Wong
 
 The domain of our application is a mentorship matching database.
 
